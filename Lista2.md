@@ -36,7 +36,7 @@ Acessar o repositório abaixo (indicado no quadro) e responda às seguintes perg
   <br>a.	Explique o diagrama UML utilizado no exemplo de aplicação do autor: <br>
   <em> https://github.com/Sean-Bradley/Design-Patterns-In-Python/tree/master/singleton#example-uml-diagram </em>
 <em> <br>
-R: No diagrama há 3 classes de jogos, cada um adiciona um vencedor e todos os jogos podem ler o leaderboard, independentemente de qual jogo foi alterado, como o quadro de líderes é um singleton, eles compartilham o mesmo quadro.<br>
+<br> R: No diagrama há 3 classes de jogos, cada um adiciona um vencedor e todos os jogos podem ler o leaderboard, independentemente de qual jogo foi alterado, como o quadro de líderes é um singleton, eles compartilham o mesmo quadro.<br>
 </em><br>
 b.	Executar o comando abaixo <br>
   ` python ./singleton/client.py `
@@ -62,29 +62,32 @@ R: A saída mostra os 3 jogos criados e suas respectivas tabelas de classificaç
 <br>
 
 ### 4.	Exercício em Python com Factory
-<br> Acessar o repositório abaixo (indicado no quadro) e então execute e explique o exemplo do link abaixo sobre Factory (2,0 pontos):
+Acessar o repositório abaixo (indicado no quadro) e então execute e explique o exemplo do link abaixo sobre Factory (2,0 pontos):
 <em>
    https://github.com/Sean-Bradley/Design-Patterns-In-Python/tree/master/factory#factory-example-umldiagram </rm>
    <br>
+   
    <em>R: A saída mostra as tabelas de classificação, como os "Games" estão usando o singleton Leaderboard,
   <br>eles compartilham e gerenciam a mesma tabela de classificação, portanto, a saída é igual para todos.
   <br>No caso do factory, parte do programa está separando a responsabilidade entre a instanciação e onde o objeto é utilizado.
   </em>
   <br>
 ### 5.	Exercício em Python com Abstract Factory
-<br>Acessar o repositório abaixo (indicado no quadro) e então execute e explique o exemplo do link abaixo sobre Abstract Factory:
+Acessar o repositório abaixo (indicado no quadro) e então execute e explique o exemplo do link abaixo sobre Abstract Factory:
  <em>  https://github.com/Sean-Bradley/Design-Patterns-In-Python/tree/master/abstract_factory </em>
+ <br>
  <br>
   <em> R: No exemplo de abstract factory, uma loja vende móveis de uma fábrica de cadeira e outra de mesa, ambas as fábricas não se relacionam, 
  <br> o cliente está implementando a interface do abstract factory em vez de toda a lógica do diagrama,
  <br> e é possível criar objetos com diferentes tamanhos  conforme necessidade.
 </em>
 <br>
-### 6.	Exercício em Python com Adapter <br>
+### 6.	Exercício em Python com Adapter
 Acessar o repositório abaixo (indicado no quadro) e então execute e explique o exemplo do link abaixo sobre Adapter:<br>
 <em>
    https://github.com/Sean-Bradley/Design-Patterns-In-Python/tree/master/adapter#example-uml –diagram
  </em><br>
+ <br>
  <em>
    R: Neste exemplo, o cliente (client application) consegue fabricar um cubo com diferentes ferramentas, <br>
   e podem ser fabricadas pela empresa A ou B, ao produzir o cubo, o cliente fornece a largura, altura e profundidade,<br>
@@ -93,7 +96,7 @@ Acessar o repositório abaixo (indicado no quadro) e então execute e explique o
   <br>quando um fornecedor estiver ocupado, o outro entrará em funcionamento para fabricar o cubo e assim até completar <br>
   a quantidade solicitada (que neste exemplo foi de 5 unidades) <br>
   
-### 7.	Exercício em Android/Kotlin com Adapter <br>
+### 7.	Exercício em Android/Kotlin com Adapter
   Acessar o repositório abaixo (indicado no quadro) e então explique o exemplo dos links abaixo sobre Adapter no Contexto aplicações Mobile com Kotlin/Android.
  <em>  a.	https://hinchman-amanda.medium.com/working-with-recyclerview-in-andr oid-kotlin-84a62aef94ec <br>
    b.	https://medium.com/androiddevelopers/getting-to-know-recyclerview-ea1
