@@ -66,7 +66,7 @@ R: A saída mostra os 3 jogos criados e suas respectivas tabelas de classificaç
 ### 4.	Exercício em Python com Factory
 Acessar o repositório abaixo (indicado no quadro) e então execute e explique o exemplo do link abaixo sobre Factory (2,0 pontos):
 <em>
-   https://github.com/Sean-Bradley/Design-Patterns-In-Python/tree/master/factory#factory-example-umldiagram </rm>
+   https://github.com/Sean-Bradley/Design-Patterns-In-Python/tree/master/factory#factory-example-umldiagram </em>
    <br>
    
    <em>R: A saída mostra as tabelas de classificação, como os "Games" estão usando o singleton Leaderboard,
@@ -97,7 +97,7 @@ Acessar o repositório abaixo (indicado no quadro) e então execute e explique o
   para que os métodos sejam compatíveis entre si, fez-se necessário o uso de um adaptador (CubeBAdapter), 
   <br>quando um fornecedor estiver ocupado, o outro entrará em funcionamento para fabricar o cubo e assim até completar <br>
   a quantidade solicitada (que neste exemplo foi de 5 unidades) <br>
-  
+  </em>
 ### 7.	Exercício em Android/Kotlin com Adapter
   Acessar o repositório abaixo (indicado no quadro) e então explique o exemplo dos links abaixo sobre Adapter no Contexto aplicações Mobile com Kotlin/Android.
  <em>  a.	https://hinchman-amanda.medium.com/working-with-recyclerview-in-andr oid-kotlin-84a62aef94ec <br>
@@ -110,3 +110,4 @@ R: No item a, é mostrado sobre a recyclerView, ela é muito eficiente para exib
   <br>o ViewHolder e o Adapter, pois são eles quem vão definir como os dados serão exibidos.O Adapter, é utilizado como 
   <br>ponte entre o adapterView e os dados que serão usados na visualização, <br>
   é ele quem será responsável por fazer a exibição para cada item.
+</em
