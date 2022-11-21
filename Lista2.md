@@ -26,6 +26,8 @@ Para os exercícios práticos vamos utilizar o repositório abaixo <br>
    v.	Dependency Injection <br>
 <br>
 <em>
+   <br>
+   <img src="https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/blob/main/mindmap.png" width="100%">
   R: Ao exportar o arquivo como png, o site pediu para assinarmos o premium para poder exportar com qualidade, então tiramos o print da tela (por isso a qualidade ruim), vamos disponibilizar o link para acessar diretamente do site:
 <br> https://mm.tt/map/2495775950?t=F0ZshrZc54
 </em>
