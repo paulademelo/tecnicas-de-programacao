@@ -110,4 +110,4 @@ R: No item a, é mostrado sobre a recyclerView, ela é muito eficiente para exib
   <br>o ViewHolder e o Adapter, pois são eles quem vão definir como os dados serão exibidos.O Adapter, é utilizado como 
   <br>ponte entre o adapterView e os dados que serão usados na visualização, <br>
   é ele quem será responsável por fazer a exibição para cada item.
-</em
+</em>
