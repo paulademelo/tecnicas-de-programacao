@@ -56,7 +56,7 @@ Factory Method	  Criacional	Fornece uma interface para criar objetos em uma supe
  
 3)	Considere o seguinte Diagrama UML:
 
-<img src="uml.ong" width="100%">
+<img src="https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/blob/main/avaliacao/uml.png" width="100%">
 
 a)	Crie um código em Python para representar esse Caso de Uso e aplique os Design Patterns aprendidos durante o curso - com destaque para os seguintes Design Patterns Singleton, Factory, Adapter e os princípios SOLID  (3,0 pontos)
 
