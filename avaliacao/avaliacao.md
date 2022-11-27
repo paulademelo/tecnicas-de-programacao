@@ -43,9 +43,10 @@ O princío SOLID ajuda a separar responsabilidade, diminuir o acoplamento e faci
 - D: Inversão da Dependência (Está ligado em dependência entre as partes do código, dependa de abstrações e não de implementações).
 </em>
 <br><br>
-<strong> 2)	Indique e relacione cada um dos 22 Design Patterns em suas categorias. Use a Tabela abaixo para complementar e explicar cada um deles (3,0 pontos)
+<strong> 2)	Indique e relacione cada um dos 22 Design Patterns em suas categorias. Use a Tabela abaixo para complementar e explicar cada um deles (3,0 pontos) <br>
 
 </strong>				
+				
 				
 
 | **Design Pattern**     | **Categoria**  | **Intenção**                                                 | **Problema**                                                 | **Solução**                                                  |
