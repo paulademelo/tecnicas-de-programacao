@@ -74,12 +74,19 @@ O princío SOLID ajuda a separar responsabilidade, diminuir o acoplamento e faci
 | Composite              | Estrutural     | Compõe objetos em estruturas de árvores para trabalhar indivualmente com cada um | Quando o nível de classes é muito aninhado torna-se desagradável a abordagem estranha ou impossível | O padrão sugere que trabalhe por meio de uma interface comum que declare os métodos necessários |
 | Proxy                  | Estrutural     | Fornece um subtituto para outro objeto                       | Quando há um objeto enorme que consome grande quantidade de recursos do sistema e precisamos usar de vez em quando | O padrão sugere que crie uma nova classe proxy com a mesma interface do objeto original. O proxy cria um objeto de serviço e delega todo o trabalho a ele |
 
-
 3)	Considere o seguinte Diagrama UML:
 
 <img src="https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/blob/main/avaliacao/uml.png" width="100%">
 
 a)	Crie um código em Python para representar esse Caso de Uso e aplique os Design Patterns aprendidos durante o curso - com destaque para os seguintes Design Patterns Singleton, Factory, Adapter e os princípios SOLID  (3,0 pontos)
 
-b)	Faça um Diagrama UML da sua solução incluindo os Design Patterns aplicados nesse Caso de Uso (1,0 pontos)
+<em>
+<strong>R: </strong> O código fonte desde exercício está na pasta exercício 3 no github 
+<br>(link: https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/tree/main/avaliacao/exercicio3)
+</em>
+<br>
+b)	Faça um Diagrama UML da sua solução incluindo os Design Patterns aplicados nesse Caso de Uso (1,0 pontos) 
+<br>
 
+<strong>R: </strong> <br>
+<img src="https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/blob/main/uml-jogos.png" width="100%">
