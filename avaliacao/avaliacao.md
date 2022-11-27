@@ -13,7 +13,7 @@ Explique cada um dos Designs Patterns e Princípios acima (3,0 pontos)
 
 <em>
 <strong>R: </strong> 
-Desing Patterns GoF: os princípios Gang of For são um dos padrões táticos que se dividem em 3 categorias: <br>
+Design Patterns GoF: os princípios Gang of For são um dos padrões táticos que se dividem em 3 categorias: <br>
 <strong>Criacional: </strong> Esses padrões vão definir como serão a Criação dos objetos e suas heranças resolvem problemas relacionados a escrita de classes, principalmente em como usar herança e qual a forma correta de usar.
 <br>
 Exemplos: builder, factory, singleton, etc.
