@@ -36,13 +36,13 @@ Domain Driven Design (DDD) ,é um conjunto de práticas que ajudam na construç�
 <br>
 Princípios SOLID:
 O princío SOLID ajuda a separar responsabilidade, diminuir o acoplamento e facilitar a refatoração, dividem-se em 5 princípios:
-- S: Responsabilidade Única (somente um é responsável por alterar)
-- O: Aberto-fechado (objetos ou entidades abertos para extensão, mas fechados para modificação)
-- L: Substituição de Liskov (A classe derivada é substituída pela classe base)
-- I: Segregação da Interface (A classe não deve ser forçada a implementar métodos e interfaces se não vai ser útil)
+- S: Responsabilidade Única (somente um é responsável por alterar) <br>
+- O: Aberto-fechado (objetos ou entidades abertos para extensão, mas fechados para modificação) <br>
+- L: Substituição de Liskov (A classe derivada é substituída pela classe base) <br>
+- I: Segregação da Interface (A classe não deve ser forçada a implementar métodos e interfaces se não vai ser útil) <br>
 - D: Inversão da Dependência (Está ligado em dependência entre as partes do código, dependa de abstrações e não de implementações).
 </em>
-<br>
+<br><br>
 <strong> 2)	Indique e relacione cada um dos 22 Design Patterns em suas categorias. Use a Tabela abaixo para complementar e explicar cada um deles (3,0 pontos)
 
 </strong>
@@ -62,11 +62,3 @@ a)	Crie um código em Python para representar esse Caso de Uso e aplique os Desi
 
 b)	Faça um Diagrama UML da sua solução incluindo os Design Patterns aplicados nesse Caso de Uso (1,0 pontos)
 
-
-
-ATENÇÃO
-●	A PROVA DEVE SER ENTREGUE ATÉ DOMINGO 27/11 ÀS 23:59
-●	A SOLUÇÃO FINAL COM AS RESPOSTAS DAS QUESTÕES E DO CÓDIGO FONTE DEVEM SER ENVIADAS NO TEAMS EM PDF INDICANDO
-○	NOME DO ALUNO
-○	RESPOSTAS
-○	LINK PARA O REPOSITÓRIO PESSOAL DO GIT
