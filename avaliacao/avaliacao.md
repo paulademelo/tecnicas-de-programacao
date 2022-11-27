@@ -2,7 +2,7 @@
 
 ### Paula Nascimento Silva de Melo
 
-#### QUESTOES
+#### QUESTÕES
 
 ##### 1)	Considere os seguintes Designs Patterns e Princípios de Engenharia de Software
 ●	Design Patterns GoF 
@@ -50,15 +50,24 @@ Design Pattern	Categoria	Intenção	Problema 	Solução
 Factory Method	  Criacional	Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.	Uma aplicação pode evoluir para uma estrutura desorganizada para a criação de objetos diferentes	Você substitui as chamadas diretas de construção de objeto (usando o operador new) por chamadas a um método fábrica especial.
 … … … 				
 … … … 				
-				
+			
 				
 
- 
 3)	Considere o seguinte Diagrama UML:
 
 <img src="https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/blob/main/avaliacao/uml.png" width="100%">
 
 a)	Crie um código em Python para representar esse Caso de Uso e aplique os Design Patterns aprendidos durante o curso - com destaque para os seguintes Design Patterns Singleton, Factory, Adapter e os princípios SOLID  (3,0 pontos)
 
-b)	Faça um Diagrama UML da sua solução incluindo os Design Patterns aplicados nesse Caso de Uso (1,0 pontos)
+<em>
+<strong>R: </strong> O código fonte desde exercício está na pasta exercício 3 no github 
+<br>(link: https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/tree/main/avaliacao/exercicio3)
+</em>
+<br>
+b)	Faça um Diagrama UML da sua solução incluindo os Design Patterns aplicados nesse Caso de Uso (1,0 pontos) 
+<br>
+
+<strong>R: </strong> <br>
+<img src="https://github.com/paulademelo/tecnicas-de-programacao-Fatec-DSM/blob/main/uml-jogos.png" width="100%">
+
 
